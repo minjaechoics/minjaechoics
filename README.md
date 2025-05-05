@@ -1,5 +1,8 @@
 ![Greating](https://capsule-render.vercel.app/api?type=rect&height=150&color=gradient&text=Glad%20you're%20here!&section=header&reversal=false&animation=fadeIn&desc=I'm%20MinJae%20Choi&fontSize=50&descAlign=82&fontAlign=70&descAlignY=67&fontAlignY=40&descSize=25)
 
+### Introduction
+Student at KAIST
+
 ### Skills
 
 <p align="left">
