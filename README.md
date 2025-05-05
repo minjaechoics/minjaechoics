@@ -1,4 +1,5 @@
-![Greating](https://capsule-render.vercel.app/api?type=rect&height=150&color=gradient&text=Glad%20you're%20here!&section=header&reversal=false&animation=fadeIn&desc=I'm%20MinJae%20Choi&fontSize=50&descAlign=82&fontAlign=70&descAlignY=67&fontAlignY=40&descSize=25)
+![Greating](https://capsule-render.vercel.app/api?type=rect&height=200&color=gradient&CustomColorList=50&text=Glad%20you're%20here!&fontAlign=71&fontSize=50&animation=fadeIn&desc=I'm%20MinJae%20Choi&descSize=30&descAlign=81&descAlignY=68&fontAlignY=44)
+
 
 * 📖 Student at KAIST
 * ✉️ You can contact me at [minjaechoi.cs@gmail.com](mailto:minjaechoi.cs@gmail.com)
