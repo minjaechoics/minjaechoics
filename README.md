@@ -3,8 +3,8 @@
 
 * 📖 Student at KAIST
 * ✉️ You can contact me at [minjaechoi.cs@gmail.com](mailto:minjaechoi.cs@gmail.com)
-* 📑 This is my velog page : [https://velog.io/@minjaechoics/]
-* 📑 This is my hasnnode page : [https://minjaechoics.hashnode.dev]
+* 📑 This is my velog page : https://velog.io/@minjaechoics/
+* 📑 This is my hasnnode page : https://minjaechoics.hashnode.dev
 
 
 ### Skills
