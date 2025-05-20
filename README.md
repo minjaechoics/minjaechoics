@@ -4,7 +4,7 @@
 * 📖 Student at KAIST
 * ✉️ You can contact me at [minjaechoi.cs@gmail.com](mailto:minjaechoi.cs@gmail.com)
 * 📑 You can see my bloga at my velog page (Korean) : https://velog.io/@minjaechoics/
-* 📑 You can also see my bloga at my hashnode page (Enlish) : https://minjaechoics.hashnode.dev
+* 📑 You can also see my bloga at my hashnode page (English) : https://minjaechoics.hashnode.dev
 
 
 ### Skills
