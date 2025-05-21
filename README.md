@@ -1,10 +1,11 @@
 ![Greating](https://capsule-render.vercel.app/api?type=rect&height=200&color=gradient&CustomColorList=50&text=I'm%20MinJae%20Choi&fontAlign=73&fontSize=50&animation=fadeIn&desc=Glad%20you're%20here!&descSize=30&descAlign=81&descAlignY=68&fontAlignY=44)
 
 
-* 📖 Student at KAIST
+* 😄 Hi! I'm MinJae Choi
+* 📖 Studying Computer Science and Mathematical Science at KAIST
 * ✉️ You can contact me at [minjaechoi.cs@gmail.com](mailto:minjaechoi.cs@gmail.com)
-* 📑 You can see my bloga at my velog page (Korean) : https://velog.io/@minjaechoics/
-* 📑 You can also see my bloga at my hashnode page (English) : https://minjaechoics.hashnode.dev
+* 📑 You can see my blog at my velog page (Korean) : https://velog.io/@minjaechoics/
+* 📑 You can also see my blog at my hashnode page (English) : https://minjaechoics.hashnode.dev
 
 
 ### Skills
