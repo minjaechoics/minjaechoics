@@ -3,7 +3,7 @@
 
 * 😄 Hi! I'm MinJae Choi
 * 🎓 I'm studying 'Computer Science', 'Mathematical Science', and 'Electrical Engineering' at KAIST
-* 📖 I'm currently interested in RDB, Graph DB, NLP, etc
+* 📖 I'm currently interested in (Relational, Graph) DB, Machine Learning
 * ✉️ You can contact me at [minjaechoi.cs@gmail.com](mailto:minjaechoi.cs@gmail.com)
 * 📑 You can see my blog at my velog page (Korean) : https://velog.io/@minjaechoics/
 * 📑 You can also see my blog at my hashnode page (English) : https://minjaechoics.hashnode.dev
