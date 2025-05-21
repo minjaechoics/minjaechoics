@@ -5,8 +5,8 @@
 * 🎓 I'm studying '[Computer Science](https://cs.kaist.ac.kr/)', '[Mathematical Science](https://mathsci.kaist.ac.kr/home/)' at KAIST
 * 📖 I'm currently interested in (Relational, Graph) DB, Machine Learning
 * ✉️ You can contact me at [minjaechoi.cs@gmail.com](mailto:minjaechoi.cs@gmail.com)
-* 📑 You can see my blog at my velog page (Korean) : https://velog.io/@minjaechoics/
-* 📑 You can also see my blog at my hashnode page (English) : https://minjaechoics.hashnode.dev
+* 📑 You can see my blog at [my velog page](https://velog.io/@minjaechoics/) (Korean)
+* 📑 You can also see my blog at [my hashnode page](https://minjaechoics.hashnode.dev) (English)
 
 
 ### Skills
