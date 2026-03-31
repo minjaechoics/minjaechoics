@@ -6,5 +6,3 @@
 * 📖 I'm currently interested in Artificial Intelligenc and Graph Structures
 * ✉️ You can contact me at [minjaechoi.cs@gmail.com](mailto:minjaechoi.cs@gmail.com)
 * 📑 You can see my personal page [HERE](https://minjaechoics.github.io/)
-* 📑 You can see my blog at [my velog page](https://velog.io/@minjaechoics/) (Korean)
-* 📑 You can also see my blog at [my hashnode page](https://minjaechoics.hashnode.dev) (English)
