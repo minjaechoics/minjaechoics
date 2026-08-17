@@ -3,6 +3,6 @@
 
 * 😄 Hi! I'm MinJae Choi
 * 🎓 I'm studying '[Computer Science](https://cs.kaist.ac.kr/)', '[Electrical Engineering](https://ee.kaist.ac.kr/home/en/)', '[Industrial Design](https://id.kaist.ac.kr/)' at KAIST
-* 📖 I'm currently interested in Artificial Intelligenc and Graph Structures
+* 📖 I'm currently interested in AI Systems(especially, I'm now conducting research about quantization at FlexML@KAIST) and Graph Structures
 * ✉️ You can contact me at [minjaechoi.cs@gmail.com](mailto:minjaechoi.cs@gmail.com)
 * 📑 You can see my personal page [HERE](https://minjaechoics.github.io/)
