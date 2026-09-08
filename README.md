@@ -2,7 +2,7 @@
 
 
 * 😄 Hi! I'm MinJae Choi
-* 🎓 I'm studying '[Computer Science](https://cs.kaist.ac.kr/)', '[Electrical Engineering](https://ee.kaist.ac.kr/home/en/)', '[Industrial Design](https://id.kaist.ac.kr/)' at KAIST
+* 🎓 I'm studying '[Computer Science](https://cs.kaist.ac.kr/)', '[AI Systems](https://aicollege.kaist.ac.kr/ais)', '[Mathematical Sciences](https://mathsci.kaist.ac.kr/home/)' at KAIST
 * 📖 I'm currently interested in AI Systems(especially, I'm now conducting research about quantization at FlexML@KAIST) and Graph Structures
 * ✉️ You can contact me at [minjaechoi.cs@gmail.com](mailto:minjaechoi.cs@gmail.com)
-* 📑 You can see my personal page [HERE](https://minjaechoics.github.io/)
+* 📑 You can see more information [HERE](https://minjaechoics.github.io/)
